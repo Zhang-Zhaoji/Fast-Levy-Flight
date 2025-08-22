@@ -5,7 +5,7 @@ the jit compilation works not only on sampling trajectory, but also on creating 
 
 Here is one example:
 
-<img width="1923" height="600" alt="fastLevyFilght" src="https://github.com/user-attachments/assets/131173ab-d86c-4807-832b-f41deacbde55" />
+<img width="1923" height="600" alt="fastLevyFilght" src="https://github.com/Zhang-Zhaoji/Fast-Levy-Flight/blob/main/fastLevyFilght.png" />
 
 ## Usage
 
